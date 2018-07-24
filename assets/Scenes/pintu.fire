@@ -161,7 +161,7 @@
       }
     ],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 64
@@ -444,7 +444,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "1"
   },
@@ -688,7 +688,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "2"
   },
@@ -932,7 +932,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "3"
   },
@@ -1176,7 +1176,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "4"
   },
@@ -1420,7 +1420,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "5"
   },
@@ -1664,7 +1664,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "6"
   },
@@ -1908,7 +1908,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "7"
   },
@@ -2152,7 +2152,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "8"
   },
@@ -2534,7 +2534,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -2679,7 +2679,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "1"
   },
@@ -2778,7 +2778,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -2923,7 +2923,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "2"
   },
@@ -3022,7 +3022,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -3167,7 +3167,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "3"
   },
@@ -3266,7 +3266,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -3411,7 +3411,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "4"
   },
@@ -3510,7 +3510,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -3655,7 +3655,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "5"
   },
@@ -3754,7 +3754,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -3899,7 +3899,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "6"
   },
@@ -3998,7 +3998,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -4143,7 +4143,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "7"
   },
@@ -4242,7 +4242,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -4387,7 +4387,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "8"
   },
@@ -4486,7 +4486,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 50,
+      "width": 44,
       "height": 80
     },
     "_rotationX": 0,
@@ -4631,7 +4631,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "9"
   },
@@ -4730,7 +4730,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 95,
+      "width": 89,
       "height": 80
     },
     "_rotationX": 0,
@@ -4875,7 +4875,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "10"
   },
@@ -4974,7 +4974,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 83,
       "height": 80
     },
     "_rotationX": 0,
@@ -5119,7 +5119,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "11"
   },
@@ -5218,7 +5218,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 95,
+      "width": 89,
       "height": 80
     },
     "_rotationX": 0,
@@ -5363,7 +5363,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "12"
   },
@@ -5462,7 +5462,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 95,
+      "width": 89,
       "height": 80
     },
     "_rotationX": 0,
@@ -5607,7 +5607,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "13"
   },
@@ -5706,7 +5706,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 95,
+      "width": 89,
       "height": 80
     },
     "_rotationX": 0,
@@ -5851,7 +5851,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "14"
   },
@@ -5950,7 +5950,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 95,
+      "width": 89,
       "height": 80
     },
     "_rotationX": 0,
@@ -6095,7 +6095,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "15"
   },
@@ -6386,7 +6386,7 @@
       }
     ],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 351
@@ -6524,7 +6524,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -6669,7 +6669,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "1"
   },
@@ -6768,7 +6768,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -6913,7 +6913,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "2"
   },
@@ -7012,7 +7012,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -7157,7 +7157,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "3"
   },
@@ -7256,7 +7256,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -7401,7 +7401,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "4"
   },
@@ -7500,7 +7500,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -7645,7 +7645,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "5"
   },
@@ -7744,7 +7744,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -7889,7 +7889,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "6"
   },
@@ -7988,7 +7988,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -8133,7 +8133,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "7"
   },
@@ -8232,7 +8232,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -8377,7 +8377,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "8"
   },
@@ -8476,7 +8476,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 50,
       "height": 80
     },
     "_rotationX": 0,
@@ -8621,7 +8621,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "9"
   },
@@ -8720,7 +8720,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -8865,7 +8865,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "10"
   },
@@ -8964,7 +8964,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 83,
+      "width": 89,
       "height": 80
     },
     "_rotationX": 0,
@@ -9109,7 +9109,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "11"
   },
@@ -9208,7 +9208,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -9353,7 +9353,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "12"
   },
@@ -9452,7 +9452,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -9597,7 +9597,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "13"
   },
@@ -9696,7 +9696,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -9841,7 +9841,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "14"
   },
@@ -9940,7 +9940,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -10085,7 +10085,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "15"
   },
@@ -10184,7 +10184,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -10329,7 +10329,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "16"
   },
@@ -10428,7 +10428,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -10573,7 +10573,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "17"
   },
@@ -10672,7 +10672,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -10817,7 +10817,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "18"
   },
@@ -10916,7 +10916,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -11061,7 +11061,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "19"
   },
@@ -11160,7 +11160,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -11305,7 +11305,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "20"
   },
@@ -11404,7 +11404,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -11549,7 +11549,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "21"
   },
@@ -11648,7 +11648,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -11793,7 +11793,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "22"
   },
@@ -11892,7 +11892,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -12037,7 +12037,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "23"
   },
@@ -12136,7 +12136,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 89,
+      "width": 95,
       "height": 80
     },
     "_rotationX": 0,
@@ -12281,7 +12281,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "touchblock",
     "customEventData": "24"
   },
@@ -12719,7 +12719,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "restart",
     "customEventData": ""
   },
@@ -12964,7 +12964,7 @@
       "__id__": 360
     },
     "_enabled": true,
-    "transition": 2,
+    "transition": 3,
     "pressedColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -12980,7 +12980,7 @@
       "a": 255
     },
     "duration": 0.1,
-    "zoomScale": 1.2,
+    "zoomScale": 1.1,
     "clickEvents": [
       {
         "__id__": 365
@@ -13029,7 +13029,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "changeDifficulty",
     "customEventData": ""
   },
@@ -13178,17 +13178,17 @@
         "__id__": 370
       },
       {
-        "__id__": 379
+        "__id__": 380
       },
       {
-        "__id__": 388
+        "__id__": 389
       }
     ],
     "_tag": -1,
     "_active": false,
     "_components": [
       {
-        "__id__": 397
+        "__id__": 378
       }
     ],
     "_prefab": null,
@@ -13571,23 +13571,35 @@
     "_N$target": {
       "__id__": 370
     },
-    "toggleGroup": null,
+    "toggleGroup": {
+      "__id__": 378
+    },
     "checkMark": {
       "__id__": 374
     },
     "checkEvents": [
       {
-        "__id__": 378
+        "__id__": 379
       }
     ],
     "_N$isChecked": true
+  },
+  {
+    "__type__": "cc.ToggleGroup",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 369
+    },
+    "_enabled": true,
+    "allowSwitchOff": false
   },
   {
     "__type__": "cc.ClickEvent",
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "choice",
     "customEventData": "3"
   },
@@ -13600,20 +13612,20 @@
     },
     "_children": [
       {
-        "__id__": 380
+        "__id__": 381
       },
       {
-        "__id__": 382
+        "__id__": 383
       },
       {
-        "__id__": 384
+        "__id__": 385
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 386
+        "__id__": 387
       }
     ],
     "_prefab": null,
@@ -13658,14 +13670,14 @@
     "_name": "Background",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 379
+      "__id__": 380
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 381
+        "__id__": 382
       }
     ],
     "_prefab": null,
@@ -13710,7 +13722,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 380
+      "__id__": 381
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -13736,14 +13748,14 @@
     "_name": "New Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 379
+      "__id__": 380
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 383
+        "__id__": 384
       }
     ],
     "_prefab": null,
@@ -13788,7 +13800,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 382
+      "__id__": 383
     },
     "_enabled": true,
     "_useOriginalSize": false,
@@ -13810,14 +13822,14 @@
     "_name": "checkmark",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 379
+      "__id__": 380
     },
     "_children": [],
     "_tag": -1,
     "_active": false,
     "_components": [
       {
-        "__id__": 385
+        "__id__": 386
       }
     ],
     "_prefab": null,
@@ -13862,7 +13874,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 384
+      "__id__": 385
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -13888,7 +13900,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 379
+      "__id__": 380
     },
     "_enabled": true,
     "transition": 0,
@@ -13932,15 +13944,17 @@
     "hoverSprite": null,
     "_N$disabledSprite": null,
     "_N$target": {
-      "__id__": 379
+      "__id__": 380
     },
-    "toggleGroup": null,
+    "toggleGroup": {
+      "__id__": 378
+    },
     "checkMark": {
-      "__id__": 385
+      "__id__": 386
     },
     "checkEvents": [
       {
-        "__id__": 387
+        "__id__": 388
       }
     ],
     "_N$isChecked": false
@@ -13950,7 +13964,7 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "choice",
     "customEventData": "4"
   },
@@ -13963,20 +13977,20 @@
     },
     "_children": [
       {
-        "__id__": 389
+        "__id__": 390
       },
       {
-        "__id__": 391
+        "__id__": 392
       },
       {
-        "__id__": 393
+        "__id__": 394
       }
     ],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 395
+        "__id__": 396
       }
     ],
     "_prefab": null,
@@ -14021,14 +14035,14 @@
     "_name": "New Label",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 388
+      "__id__": 389
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 390
+        "__id__": 391
       }
     ],
     "_prefab": null,
@@ -14073,7 +14087,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 389
+      "__id__": 390
     },
     "_enabled": true,
     "_useOriginalSize": false,
@@ -14095,14 +14109,14 @@
     "_name": "Background",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 388
+      "__id__": 389
     },
     "_children": [],
     "_tag": -1,
     "_active": true,
     "_components": [
       {
-        "__id__": 392
+        "__id__": 393
       }
     ],
     "_prefab": null,
@@ -14147,7 +14161,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 391
+      "__id__": 392
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -14173,14 +14187,14 @@
     "_name": "checkmark",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 388
+      "__id__": 389
     },
     "_children": [],
     "_tag": -1,
     "_active": false,
     "_components": [
       {
-        "__id__": 394
+        "__id__": 395
       }
     ],
     "_prefab": null,
@@ -14225,7 +14239,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 393
+      "__id__": 394
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -14251,7 +14265,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 388
+      "__id__": 389
     },
     "_enabled": true,
     "transition": 0,
@@ -14295,15 +14309,17 @@
     "hoverSprite": null,
     "_N$disabledSprite": null,
     "_N$target": {
-      "__id__": 388
+      "__id__": 389
     },
-    "toggleGroup": null,
+    "toggleGroup": {
+      "__id__": 378
+    },
     "checkMark": {
-      "__id__": 394
+      "__id__": 395
     },
     "checkEvents": [
       {
-        "__id__": 396
+        "__id__": 397
       }
     ],
     "_N$isChecked": false
@@ -14313,19 +14329,9 @@
     "target": {
       "__id__": 2
     },
-    "component": "pintu",
+    "component": "pintu1",
     "handler": "choice",
     "customEventData": "5"
-  },
-  {
-    "__type__": "cc.ToggleContainer",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 369
-    },
-    "_enabled": true,
-    "allowSwitchOff": false
   },
   {
     "__type__": "cc.Canvas",
@@ -14344,13 +14350,12 @@
     "_fitHeight": true
   },
   {
-    "__type__": "461c9hBYm5AgLz3D5nb9Onu",
+    "__type__": "79814nnwvZPl5KQssJ3gb6r",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 2
     },
-    "_enabled": true,
-    "games": 5
+    "_enabled": true
   }
 ]

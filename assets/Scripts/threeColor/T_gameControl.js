@@ -31,4 +31,10 @@ cc.Class({
         this.durtion = Math.random();
         this.creatBlocks();
     },
+
+    restart: function (){
+        cc.gameover = false;
+        cc.find("Canvas/resultPanel").active = false;
+        this.blockParent.removeAllChildren();
+    },
 });

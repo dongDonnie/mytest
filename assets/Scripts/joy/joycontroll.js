@@ -13,6 +13,10 @@ cc.Class({
         }
     },
 
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
+
     onLoad: function () {
         this._obj = Utils.bindNode(this.node);
         this.rocker = this._obj.JoystickBG.Joystick._Node;

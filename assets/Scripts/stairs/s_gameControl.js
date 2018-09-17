@@ -6,6 +6,9 @@ cc.Class({
         score: cc.Label,
         restartPanel:cc.Node,
     },
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
 
     onLoad: function () {
         // cc.director.getPhysicsManager().enabled = true; // 开启了物理引擎

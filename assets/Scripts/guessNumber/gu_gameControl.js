@@ -5,6 +5,10 @@ cc.Class({
         result: cc.Label,
     },
 
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
+
     onLoad: function () {
         this.getRandomNumber();
     },

@@ -4,6 +4,9 @@ cc.Class({
         gravity: cc.v2(0, -320)
     },
 
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
     onLoad: function () {
         cc.director.getPhysicsManager().enabled = true;
         cc.director.getPhysicsManager().gravity = this.gravity;

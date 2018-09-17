@@ -9,6 +9,10 @@ cc.Class({
 
     },
 
+    fanhui: function (){
+        cc.director.loadScene('start');
+    },
+
     onLoad: function () {
         this.blocks = cc.find("Canvas/blocks");
         this.move = false;

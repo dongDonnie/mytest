@@ -4,6 +4,9 @@ cc.Class({
     properties: {
         stagePrefab:cc.Prefab,
     },
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
 
     onLoad: function () {
         this.Obj = Utils.bindNode(this.node);

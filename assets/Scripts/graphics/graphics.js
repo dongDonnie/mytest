@@ -3,6 +3,9 @@ cc.Class({
     properties: {
         
     },
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
 
     onLoad: function () {
         this.g = this.node.getComponent(cc.Graphics);

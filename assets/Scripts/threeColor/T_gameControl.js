@@ -6,6 +6,10 @@ cc.Class({
         createTime: 2,
     },
 
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
+
     onLoad: function () {
         // cc.director.getCollisionManager().enabled = true; //打开碰撞系统
         // cc.director.getPhysicsManager().enabled = true; // 开启了物理引擎

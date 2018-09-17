@@ -8,6 +8,10 @@ cc.Class({
 
     },
 
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
+
     onLoad: function () {
         this.num = 3;
         this.getInterface();

@@ -3,7 +3,9 @@ cc.Class({
     properties: {
 
     },
-
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
     onLoad: function () {
         this.gametype = 3;
         cc.find("Canvas/end").active = false;
@@ -174,7 +176,7 @@ cc.Class({
 
     choice: function (event, eventdata) {
         this.gametype = eventdata * 1;
-        for (let i = 3; i < 6; i++){
+        for (let i = 3; i < 6; i++) {
             cc.find("Canvas/game" + i).active = false;
         }
         cc.find("Canvas/game" + this.gametype).active = true;

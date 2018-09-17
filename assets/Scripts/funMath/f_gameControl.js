@@ -6,6 +6,9 @@ cc.Class({
         balls: cc.Node,
         targetValue: cc.Label,
     },
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
 
     onLoad: function () {
         cc.director.getPhysicsManager().enabled = true; // 开启了物理引擎

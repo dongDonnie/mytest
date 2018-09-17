@@ -9,6 +9,10 @@ cc.Class({
         editBox: cc.EditBox,
     },
 
+    fanhui: function () {
+        cc.director.loadScene('start');
+    },
+
     onLoad() {
         this.pos = {};
         this.pos.X = this.xpos;
